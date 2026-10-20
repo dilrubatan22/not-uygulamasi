@@ -11,3 +11,5 @@ git add    : Değişiklikleri staging area'ya ekler.
 git commit : Staging'deki değişiklikleri kalıcı olarak geçmişe kaydeder.
 git status : Dosyaların durumunu (untracked, modified, staged) gösterir.
 git log    : Commit geçmişini listeler.
+git branch : Branch'leri listeler veya yeni branch oluşturur.
+git push   : Yerel commit'leri GitHub'daki uzak repoya gönderir.
